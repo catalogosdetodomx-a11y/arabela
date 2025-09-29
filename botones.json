@@ -1,11 +1,12 @@
 {
   "botones": [
-    { "nombre": "campaña 23","url": "https://catalogosdetodomx-a11y.github.io/pendiente.json"},
+    { "nombre": "campaña 23","url": "https://catalogosdetodomx-a11y.github.io/.io/arabela/pendiente.json"},
     { "nombre": "Campaña 22", "url": "https://catalogosdetodomx-a11y.github.io/arabela/ar1.json" },
     { "nombre": "Campaña 21", "url": "https://catalogosdetodomx-a11y.github.io/arabela/ar2.json" },
     { "nombre": "Campaña 20", "url": "https://catalogosdetodomx-a11y.github.io/arabela/ar3.json" }
   ]
 }
+
 
 
 
