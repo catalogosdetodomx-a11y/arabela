@@ -1,11 +1,12 @@
 {
   "botones": [
-    { "nombre": "2 PENDIENTE","url": ""},
+    { "nombre": "2 ESTA EN PDF","url": ""},
     { "nombre": "Campaña 1", "url": "https://catalogosdetodomx-a11y.github.io/arabela/ar1.json" },
     { "nombre": "Campaña 26", "url": "https://catalogosdetodomx-a11y.github.io/arabela/ar2.json" },
     { "nombre": "Campaña 25", "url": "https://catalogosdetodomx-a11y.github.io/arabela/ar3.json" }
   ]
 }
+
 
 
 
