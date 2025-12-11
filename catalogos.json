@@ -6,18 +6,34 @@
       "items": [
         {
           "titulo": "Campaña 2",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-7-193x300.webp",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Arabela-Campana-2-2026-Mexico-206x300.webp",
           "link": "https://drive.google.com/file/d/1DLEgo9-oFsBd1sR6tOHzcRm1qg1YTfS9/view?usp=drive_link"
         },
         {
           "titulo": "Campaña 1",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/11/1-29-193x300.webp",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Arabela-Campana-1-2026-Mexico-209x300.webp",
           "link": "https://drive.google.com/file/d/10IIjMHfEoF761S5UT-G-Tlu899hPQvd-/view?usp=drive_link"
         },
         {
           "titulo": "Campaña 26",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/11/1-15-193x300.webp",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Arabela-Campana-26-2025-Mexico-204x300.webp",
           "link": "https://drive.google.com/file/d/1QMVQxwpqx1ygiuaBmvmzP2CisooqrNuk/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "CATALOGOS",
+      "color": "#692f7f",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 25 ",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Arabela-Campana-25-2025-Mexico-203x300.webp",
+          "link": "https://drive.google.com/file/d/1_IKjIPawScrVJ0KZNmw1vUNgAx3ZSIsD/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 24",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Arabela-Campana-24-2025-Mexico-198x300.webp",
+          "link": "https://drive.google.com/file/d/14RZalryUq10rTwe7OQUgIRa_8YLkVseS/view?usp=drive_link"
         }
       ]
     }
