@@ -3,7 +3,7 @@
   "subtitle": "Catálogos Arabela • ",
   "message": "Los mejores catalogos para ver o descargar",
   "background": "https://www.appcreator24.com/srv/imgs/cards/temp/26089.png?ts=1767294457444",
-  "snow": true,
+  "snow": FALSE,
   "music": true,
   "musicUrl": "https://cdn.pixabay.com/audio/2025/11/19/audio_8a5dad516a.mp3",
   "volume": 0.15
