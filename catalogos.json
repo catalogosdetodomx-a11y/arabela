@@ -1,6 +1,17 @@
 {
   "filas": [
     {
+      "titulo": "CATALOGOS 2026",
+      "color": "#5f2f7f",
+      "items": [
+        {
+          "titulo": "ARABELA C4 ",
+          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/804fdbae4144b63d32bf103325847cbc.9232.webp",
+          "link": "https://drive.google.com/file/d/1-apPI0soS7IJ_k94DgGEH3TRchrqoagu/view?usp=drive_link"
+        }
+      ]
+    },
+    {
       "titulo": "Arabela Catálogos",
       "color": "#bd05bd",
       "items": [
