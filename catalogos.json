@@ -5,6 +5,11 @@
       "color": "#5f2f7f",
       "items": [
         {
+          "titulo": "ARABELA C10",
+          "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjog0DtsJe5Qlly0Us2Qgah-xiTNm2IUy8rXMmzzrYun98rzT5DwPLf0hjixUqe03pLOv56cWJgSyjazfMrx3oRqjqws-3Xhb9xe-HloQdAfABG9q1g2h0tbG-7WlG1FqXfKy3QO23HI0Dwe1u1ey9dLRLqqekkpmjoSvkdCfRk8XOMuAHT4x_jl1ZNKmM/s0/catalogo-arabela-campa%C3%B1a-10-2026-1.webp",
+          "link": "https://drive.google.com/file/d/1LulCOeol1LtEL9flriLCiU8ZyjOgvp5i/view?usp=sharing"
+        },
+        {
           "titulo": "ARABELA C 9 2026",
           "img": "https://www.appcreator24.com/srv/imgs/cards/o3578680_17665590.png?v=1",
           "link": "https://drive.google.com/file/d/11vCTk2dFkpYeNX8KuzVjtb9lIqeNtsTd/view?usp=drive_link"
@@ -20,11 +25,6 @@
           "link": "https://drive.google.com/file/d/1zOtPSnneTwFyFA4zRV1x4vGnEV3g_9Y_/view?usp=sharing"
         },
         {
-          "titulo": "ARABELA C4 ",
-          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/804fdbae4144b63d32bf103325847cbc.9232.webp",
-          "link": "https://drive.google.com/file/d/1-apPI0soS7IJ_k94DgGEH3TRchrqoagu/view?usp=drive_link"
-        },
-        {
           "titulo": "ARABELA 6",
           "img": "https://www.appcreator24.com/srv/imgs/cards/temp/45718.png?ts=1769579769851",
           "link": "https://drive.google.com/file/d/1NuxkzqMFiT17_WAVx7Xu4kDITEmljeUZ/view?usp=drive_link"
@@ -34,28 +34,7 @@
     {
       "titulo": "Arabela Catálogos",
       "color": "#bd05bd",
-      "items": [
-        {
-          "titulo": "CAMPAÑA 3 2026",
-          "img": "https://www.appcreator24.com/srv/imgs/cards/o3578680_17571669.png?v=1",
-          "link": "https://drive.google.com/file/d/15JmVC-DrVQ4S7foQSH0hVTtwgPbSp-0c/view?usp=drive_link"
-        },
-        {
-          "titulo": "Campaña 2",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Arabela-Campana-2-2026-Mexico-206x300.webp",
-          "link": "https://drive.google.com/file/d/1DLEgo9-oFsBd1sR6tOHzcRm1qg1YTfS9/view?usp=drive_link"
-        },
-        {
-          "titulo": "Campaña 1",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Arabela-Campana-1-2026-Mexico-209x300.webp",
-          "link": "https://drive.google.com/file/d/10IIjMHfEoF761S5UT-G-Tlu899hPQvd-/view?usp=drive_link"
-        },
-        {
-          "titulo": "Campaña 26",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Arabela-Campana-26-2025-Mexico-204x300.webp",
-          "link": "https://drive.google.com/file/d/1QMVQxwpqx1ygiuaBmvmzP2CisooqrNuk/view?usp=drive_link"
-        }
-      ]
+      "items": []
     }
   ]
 }
