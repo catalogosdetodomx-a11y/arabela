@@ -1,6 +1,17 @@
 {
   "filas": [
     {
+      "titulo": "Catalogos arabela",
+      "color": "#652f7f",
+      "items": [
+        {
+          "titulo": "Campaña 15 2026",
+          "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX9xyBCsxiW1lLnM0wUmUzfbiHPo8NGBZWiNd99GGtkMvkuu4Zv0Riy7bYcnKmq_reSah1TyioSiYZCL87vy29HvlnA_pOYglAcb_ssuL4CdtcZhLJdqSRMDn2inmNlKjf15Vd4MbTr5fgtNyO8G9GobiaEoOxfchlzjx7LqUp8iRcbeD8mYOPY3CcCCE/s773/pagina_1.webp",
+          "link": "https://drive.google.com/file/d/1tjUqpzwq_AdcrevxUx5-pyQVyeDnz989/view?usp=drive_link"
+        }
+      ]
+    },
+    {
       "titulo": "​​",
       "color": "#5f2f7f",
       "items": [
