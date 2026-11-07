@@ -2,6 +2,17 @@
   "filas": [
     {
       "titulo": "Catalogos arabela",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "campaña 1 2027",
+          "img": "https://lh3.googleusercontent.com/d/14bRkf055JDwhRkDUSqIBfLY-76WStbAu=w1000",
+          "link": "https://drive.google.com/file/d/14bRkf055JDwhRkDUSqIBfLY-76WStbAu/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "2026",
       "color": "#652f7f",
       "items": [
         {
